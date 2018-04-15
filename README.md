@@ -2,7 +2,13 @@
 
 ## Frontend 1.5 : cắt layout theo file PSD
 
-Cắt layout theo file PSD cho trước
+Không dùng thư viện, thiết kế theo giao diện yêu cầu
+
+Chú ý tổ chức thư mục :
+* index.html
+* css
+* js
+* images
 
 Người thực hiện: [ Tiến Nguyễn ](https://github.com/tiennguyen98)
 
