@@ -13,7 +13,7 @@ Chú ý tổ chức thư mục :
 Người thực hiện: [ Tiến Nguyễn ](https://github.com/tiennguyen98)
 
 ## Liên kết
-* [ Frontend 1.5 ](https://github.com/tiennguyen98/front-end-1.5)
+* [ Frontend 1.5 ](https://tiennguyen98.github.io/front-end-1.5/)
 * [ File PSD ](https://github.com/colombo-trainee/trainee_2018/blob/master/frontend/simple%20pc/1671.psd)
 
 ## Kiến thức nắm được
