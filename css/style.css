@@ -115,6 +115,8 @@ header {
       position: absolute;
       right: -90px;
       top: 0; }
+  header .right-box {
+    width: calc(100% - 340px - 20px - 50px - 70px); }
 
 .box-1 {
   background-color: #242a31;
